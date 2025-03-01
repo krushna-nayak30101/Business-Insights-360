@@ -61,7 +61,7 @@ The Business Insights 360 report delivers in-depth insights across multiple depa
 # 🔍 Business Insights #
 
 ### Finance ###
-•	**Net Sales grew exponentially, increasing **353.5%** in **FY 2022**
+•	Net Sales grew exponentially, increasing **353.5%** in **FY 2022**
 •	Expansion since 2021 resulted in a **14% loss**
 •	Peak **sales period** is **October - December** every fiscal year
 
