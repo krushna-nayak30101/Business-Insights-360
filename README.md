@@ -44,16 +44,19 @@ The Business Insights 360 report delivers in-depth insights across multiple depa
 ### 🎯 Executive View ***(Historical metrics tailored for executives)***
 
 ***
-#📌 Key Metrics & KPIs#
-### 📊 Key Performance Indicators (KPIs): ###
-•	**Net Sales, Gross Margin %, Net Profit %**
-•	**Forecast Accuracy %, Net Error, Absolute Error**
-### 📌 Key Metrics:###
-•	**Profit & Loss Statement**
-•	**Inventory Risk Analysis**
-•	**Gross Margin & Gross Margin % Variance**
-•	**AtliQ’s Market Share & Revenue Contribution**
+## 📌 Key Metrics & KPIs ##
 
+### 📊 Key Performance Indicators (KPIs): ###
+
+-   **Net Sales, Gross Margin %, Net Profit %**
+-	**Forecast Accuracy %, Net Error, Absolute Error**
+
+### 📌 Key Metrics: ###
+-	**Profit & Loss Statement**
+-	**Inventory Risk Analysis**
+-	**Gross Margin & Gross Margin % Variance**
+-	**AtliQ’s Market Share & Revenue Contribution**
+-	
 ***
 # 🔍 Business Insights #
 
