@@ -7,27 +7,27 @@ The Business Insights 360 report delivers in-depth insights across multiple depa
 ***
 
 ## 🚀 Tech Stack Used ##
-  - SQL
-  - Power BI Desktop & Power BI Service
-  - Excel
-  - DAX Studio
+  - **SQL**
+  - **Power BI Desktop & Power BI Service**
+  - **Excel**
+  - **DAX Studio**
 
  *** 
 
 ## 🔍 Power BI Features Implemented
-- Data Modeling – Established relationships across 15 tables
-- DAX Measures & Calculated Columns
-- Interactive Bookmarks & Page Navigation (using Buttons)
-- Dynamic Titles
-- Conditional Formatting – Highlighting key metrics
-- Publishing & Sharing Reports via Power BI Service
+ - **Data Modeling**  – Established relationships across 15 tables
+- **DAX Measures & Calculated Columns**
+- **Interactive Bookmarks & Page Navigation** (using Buttons)
+- **Dynamic Titles**
+- **Conditional Formatting** – Highlighting key metrics
+- **Publishing & Sharing Reports via Power BI Service**
 
 ***
 
 ## 📌 Data Modeling Approach
-- Defined relationships across 15 tables
-- Implemented a Snowflake Schema for efficient data structuring
-- Ensured proper table relationships for accurate and insightful analysis
+- Defined **relationships across 15 tables**
+- Implemented a **Snowflake Schema** for efficient data structuring
+- Ensured proper table relationships for **accurate and insightful analysis**
 
 ## 📊 Dashboard Overview
 ### 🏠 Home Page (Centralized hub for seamless navigation)
@@ -43,14 +43,14 @@ The Business Insights 360 report delivers in-depth insights across multiple depa
 ### 🎯 Executive View (Historical metrics tailored for executives)
 
 ***
-📌 Key Metrics & KPIs
-📊 Key Performance Indicators (KPIs):
-•	Net Sales, Gross Margin %, Net Profit %
-•	Forecast Accuracy %, Net Error, Absolute Error
+#📌 Key Metrics & KPIs#
+##📊 Key Performance Indicators (KPIs):##
+•	**Net Sales, Gross Margin %, Net Profit %**
+•	**Forecast Accuracy %, Net Error, Absolute Error**
 📌 Key Metrics:
-•	Profit & Loss Statement
-•	Inventory Risk Analysis
-•	Gross Margin & Gross Margin % Variance
+•	Profit & Loss Statement**
+•	Inventory Risk Analysis**
+•	Gross Margin & Gross Margin % Variance**
 •	AtliQ’s Market Share & Revenue Contribution
 
 ***
