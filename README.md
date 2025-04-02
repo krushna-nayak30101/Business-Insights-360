@@ -1,4 +1,4 @@
-# 📊 Business Insights 360 - AtliQ Hardware #
+# 📊 Business Insight 360 - AtliQ Hardware #
 
 AtliQ Hardware, a rapidly expanding computer hardware company, struggled with outdated Excel-based analytics while managing large datasets. To maintain a competitive edge, they needed advanced analytics for data-driven decision-making and efficient reporting.
 
