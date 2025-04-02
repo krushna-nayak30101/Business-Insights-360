@@ -35,7 +35,7 @@ The Business Insights 360 report delivers in-depth insights across multiple depa
 ## 📊 Dashboard Overview
 
 ### 🏠 Home Page ***(Centralized hub for seamless navigation)***
-![Alt text](https://github.com/krushna-nayak30101/Business-Insights-360/blob/4f7f57c1cdc3c2d51a36a4242d885d48b011bd89/Home%20Page.png)
+![Alt text](https://github.com/krushna-nayak30101/Business-Insights-360/blob/1a03aaa6203ab8d89bf3d1b255e9db30184bd0e2/Home%20Page%201.png)
 ### 💰 Finance View ***(Analysis of key financial metrics)***
 ![Alt text](https://github.com/krushna-nayak30101/Business-Insights-360/blob/4f7f57c1cdc3c2d51a36a4242d885d48b011bd89/Finance%20View%201.png)
 ### 📈 Sales View **(Performance insights across different sales channels)***
