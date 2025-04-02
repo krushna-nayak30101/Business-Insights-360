@@ -52,6 +52,9 @@ The Business Insights 360 report delivers in-depth insights across multiple depa
 ### 🎯 Executive View ***(Historical metrics tailored for executives)***
 ![Alt text](https://github.com/krushna-nayak30101/Business-Insights-360/blob/01165f9072b8954f5eb5360ccb2f4597c2565d0c/Executive%20View%201.png)
 ***
+***
+https://app.powerbi.com/view?r=eyJrIjoiMjI1N2JmNTktZGIyOC00N2RhLTk2ZDUtNzEwNGY2NGU0ZWFiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+***
 ## 📌 Key Metrics & KPIs ##
 
 ### 📊 Key Performance Indicators (KPIs): ###
