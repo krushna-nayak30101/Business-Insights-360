@@ -41,13 +41,13 @@ The Business Insights 360 report delivers in-depth insights across multiple depa
 ![Alt text](https://github.com/krushna-nayak30101/Business-Insights-360/blob/4f7f57c1cdc3c2d51a36a4242d885d48b011bd89/Finance%20View%201.png)
 ***
 ### 📈 Sales View **(Performance insights across different sales channels)***
-![Alt text](https://github.com/krushna-nayak30101/Business-Insights-360/blob/4f7f57c1cdc3c2d51a36a4242d885d48b011bd89/Sales%20View%201.png)
+![Alt text](https://github.com/krushna-nayak30101/Business-Insights-360/blob/d5faf56a5ae2386b666cf1ea4d2ed8cdf92e1d9e/Sales%20View%201.png)
 ***
 ### 📢 Marketing View ***(Insights into strategic marketing decisions)***
 ![Alt text](https://github.com/krushna-nayak30101/Business-Insights-360/blob/4f7f57c1cdc3c2d51a36a4242d885d48b011bd89/Marketing%20View%201.png)
 ***
 ### 📦 Supply Chain View ***(Operations & supply chain optimization)***
-![Alt text](https://github.com/krushna-nayak30101/Business-Insights-360/blob/4f7f57c1cdc3c2d51a36a4242d885d48b011bd89/Supply%20chain%201.png)
+![Alt text](https://github.com/krushna-nayak30101/Business-Insights-360/blob/d5faf56a5ae2386b666cf1ea4d2ed8cdf92e1d9e/Supply%20Chain%201.png)
 ***
 ### 🎯 Executive View ***(Historical metrics tailored for executives)***
 ![Alt text](https://github.com/krushna-nayak30101/Business-Insights-360/blob/01165f9072b8954f5eb5360ccb2f4597c2565d0c/Executive%20View%201.png)
