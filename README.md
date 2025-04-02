@@ -28,6 +28,8 @@ The Business Insights 360 report delivers in-depth insights across multiple depa
 - Defined **relationships across 15 tables**
 - Implemented a **Snowflake Schema** for efficient data structuring
 - Ensured proper table relationships for **accurate and insightful analysis**
+  
+![Alt text](https://github.com/krushna-nayak30101/Business-Insights-360/blob/7947895443b36b40f2f29647e71162f4f8793a4a/Datamodel%20image.png)
 ***
 
 ## 📊 Dashboard Overview
